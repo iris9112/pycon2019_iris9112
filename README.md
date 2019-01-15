@@ -1,10 +1,12 @@
 # Creando una red para analizar los personajes de Juego de Tronos :dragon_face: :wolf:
 
+
 Vamos analizar la red de co-ocurrencia de personajes y su evolución en la popular serie de Juego de Tronos. ¿Jon Snow, Daenerys o Tyrion? ¿Quién es el personaje más importante? ¡Veamos qué pueden decirnos las matemáticas sobre esto! Y lo haremos usando diferentes medidas de la librería networkx.
 
 ## Resumen
 
 :snowflake: **Analizando la red de co-ocurrencia de personajes de Juego de Tronos** :snowflake:
+
 Desde redes sociales como Facebook y Twitter hasta redes de transporte como sistemas para compartir autos, las redes están en todas partes, y saber cómo analizar este tipo de sistemas le dará una importante habilidad, y le ayudará a mirar sus datos con una nueva perspectiva.
 
 Para este caso, hemos estado buscando diferentes maneras de encontrar los personajes más importantes en la red de co-ocurrencia de Juego de Tronos. ¿Jon Snow, Tyrion, Daenerys u otra persona? ¡Veamos! La librería networkx nos ofrece muchas métricas diferentes para medir la importancia de un nodo en una red. Analizaremos tres medidas y exploraremos los significados que tiene cada metrica. Tenga en cuenta que no existe una forma ""correcta"" de calcular el nodo más importante en una red, cada medida tiene un significado diferente y vamos a explorarlas.
@@ -31,7 +33,8 @@ Para este caso, hemos estado buscando diferentes maneras de encontrar los person
 8. Correlación entre diferentes medidas.
 9. Conclusión
 
-# Créditos :warning:
+# :warning: Créditos 
+
 
 - Autor taller Original: Mridul Seth
     - :octocat: [Github](https://github.com/MridulS/pydata-networkx)
@@ -47,6 +50,6 @@ Para este caso, hemos estado buscando diferentes maneras de encontrar los person
 
 ### Algo de mi motivación ...  
 
-Fui estudiante en [Datacamp](https://www.datacamp.com/) el año pasado y ¡aprendí un montón!. Contacte con el profe de uno de los proyectos que más me gusto, y le parecio que seria una muy buena idea que su material estuviera disponible en español para llegar más personas. Además soy adicta a la lectura y *Canción de Hielo y Fuego* es una de mis sagas favoritas (ó Juego de Tronos, como se conoce la serie). La primera parte del taller es un repaso general y la segunda parte es la traducción a español del taller ya mencionado.
+Fui estudiante en [Datacamp](https://www.datacamp.com/) el año pasado y ¡aprendí un montón!. Contacte con el profe de uno de los proyectos que más me gustó, y le parecio que seria una muy buena idea que su material estuviera disponible en español para llegar más personas. Además soy adicta a la lectura y *Canción de Hielo y Fuego* es una de mis sagas favoritas (ó Juego de Tronos, como se conoce la serie). La primera parte del taller es un repaso general y la segunda parte es la traducción a español del taller ya mencionado.
 
 *Pd: Si aprendizte algo, invitame un café :coffee:*
