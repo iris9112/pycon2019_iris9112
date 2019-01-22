@@ -54,4 +54,4 @@ Para este caso, hemos estado buscando diferentes maneras de encontrar los person
 
 Fui estudiante en [Datacamp](https://www.datacamp.com/) el año pasado y ¡aprendí un montón!. Contacte con el profe de uno de los proyectos que más me gustó, y le parecio que seria una muy buena idea que su material estuviera disponible en español para llegar más personas. Además soy adicta a la lectura y *Canción de Hielo y Fuego* es una de mis sagas favoritas (ó Juego de Tronos, como se conoce la serie). La primera parte del taller es un repaso general y la segunda parte es la traducción a español del taller ya mencionado.
 
-*Pd: Si aprendizte algo, invitame un café :coffee:*
+*Pd: Si aprendiste algo, invitame un café :coffee:*
