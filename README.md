@@ -13,13 +13,15 @@ Para este caso, hemos estado buscando diferentes maneras de encontrar los person
 
 # Taller 
 
-## Primera parte - Intro
+## Primera parte
+[Intro](./Intro.ipynb)
 
 1. E.D.A.: Conociendo algunos datasets disponibles para juego de Tronos *(15min)*
 2. Repaso de grafos (Nodos, aristas, vertices) *(15min)*
 3. Breve intro a la libreria [NetworkX](https://networkx.github.io/) *(20min)*
 
-## Segunda parte - Tareas del proyecto 
+## Segunda parte
+[Proyecto](./Proyecto.ipynb)
 
 *(1 hora y 20min)*
 
